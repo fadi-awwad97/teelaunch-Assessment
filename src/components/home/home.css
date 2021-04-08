@@ -1,0 +1,17 @@
+.container {
+    background-image: url("../../assets/back.jpg");
+    background-attachment: fixed;
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat:   no-repeat;
+    background-size:     cover;  
+}
+
+.title {
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    background-image: linear-gradient(to left, rgb(15, 46, 102,0.4) , rgb(37, 57, 146),rgb(15, 46, 102,0.4));
+}
